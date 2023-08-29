@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Fullstack developer at Webticari.<br>🛠️ Currently working with PHP and JS.<br>🥼 Advanced knowledge in; Python, C/C++, C#, PHP, JS<br>🔍 Experience with; Java, Assembly, NodeJS<br>📖 Learning Codeigniter, VueJS<br>
+💼 Fullstack developer at Webticari.<br>🛠️ Currently working with PHP and JS.<br>🥼 Advanced knowledge in; Python, C/C++, C#, PHP, JS<br>🔍 Experience with; Java, Assembly, NodeJS<br>📖 Learning VueJS, ExpressJS, MongoDB<br>
 
 
 # 💻 Tech Stack:
